@@ -1,7 +1,15 @@
 # screen-transitions
-Simple load scene effect for Godot Game Engine
+Simple loading scene effect for Godot Game Engine
 
-You can chose the color and the time of the transition.
+HHow is work:
+
+Adds a custom Node to the scene, the node adds as children a Tween node for the animation and some ColorRect to be animated.
+
+How to use:
+
+Download the last version, add the files in your addons folder, and enable the SceneTransition plugin in your project settings. Then add the SceneTransition node to your scene root node, choose the effect, the color, the time and that's all. You must add a node for every scene you want to have the effect.
+
+
 
 One side: 
 
