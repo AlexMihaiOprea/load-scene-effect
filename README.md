@@ -1,4 +1,4 @@
-# screen-transitions
+# load-screen-effect
 Simple loading scene effect for Godot Game Engine
 
 **How is work:**
