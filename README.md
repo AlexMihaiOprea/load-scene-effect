@@ -13,20 +13,21 @@ Download the last version, add the files in your addons folder, and enable the S
 
 **One side:**
 
-![down](https://user-images.githubusercontent.com/30623869/173453144-50b3b16d-0bd4-4ee4-9ba8-2260b9b66ae8.gif)
+![one side](https://user-images.githubusercontent.com/30623869/173818769-19cfbced-6df3-4f52-9539-193b3a6379bf.gif)
 
 **Fade:**
 
-![fade_out](https://user-images.githubusercontent.com/30623869/173453573-6f5daec1-ae74-4f7a-a12e-dbab3322adbf.gif)
+![fade](https://user-images.githubusercontent.com/30623869/173822855-00da82b8-fd0f-452a-8ef1-eb02f1fece1b.gif)
 
 **Corner:**
 
-![corner](https://user-images.githubusercontent.com/30623869/173454286-5ea384ce-b447-4dd8-8012-16a22ae5e7d6.gif)
+![corner](https://user-images.githubusercontent.com/30623869/173820661-3003204b-8676-4f45-a0cd-653e1c9fceca.gif)
 
 **Two sides:**
 
-![left_right](https://user-images.githubusercontent.com/30623869/173457291-19510cbc-b977-4fc7-83e2-b5c4676fdb4d.gif)
+![two side](https://user-images.githubusercontent.com/30623869/173822050-cf88984e-f10c-42e8-beef-90c699de957b.gif)
 
 **Center:**
 
-![center](https://user-images.githubusercontent.com/30623869/173457788-c71cc673-e52f-4687-9bc2-e51b6e217dad.gif)
+![center](https://user-images.githubusercontent.com/30623869/173822876-9a7ba296-df23-470a-bbfd-1720a1560d03.gif)
+
