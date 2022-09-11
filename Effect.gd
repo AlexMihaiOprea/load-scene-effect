@@ -53,7 +53,7 @@ func start_transition():
 		"TopRigthCorner" : top_right_corner()
 		"TopLeftCorner" : top_left_corner()
 		"BottomRigthCorner" : bottom_rigth_corner()
-		"BottomLeftCorner" : botton_left_corner()
+		"BottomLeftCorner" : bottom_left_corner()
 		"UpDown" : up_down()
 		"LeftRigth" : left_rigth()
 		"Center" : center()
@@ -212,7 +212,7 @@ func bottom_rigth_corner():
 	node.visible = false
 	
 	
-func botton_left_corner():
+func bottom_left_corner():
 	add_child(tween)
 	add_child(colorRect1)
 	add_child(colorRect2)
